@@ -12,6 +12,8 @@ On the terminal type `npm -v` to see if the node package manager is installed. I
 From the terminal run `npm init` and enter all the details.
 This will create the `packages.json` file that will hold all the project dependencies.
 
+See the [following YouTube Playlist](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=1) for tutorials on `React` and `Redux`.
+
 
 
 
