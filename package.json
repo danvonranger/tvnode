@@ -1,0 +1,23 @@
+{
+  "name": "tvnode",
+  "version": "1.0.0",
+  "description": "Tv series app using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvonranger/tvnode.git"
+  },
+  "keywords": [
+    "tvseries",
+    "node"
+  ],
+  "author": "Daniel Ranger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvonranger/tvnode/issues"
+  },
+  "homepage": "https://github.com/danvonranger/tvnode#readme"
+}
